@@ -20,7 +20,7 @@
                     <li class="active">商品列表</li>
                 </ol>
                 <div class="page-title">
-                    <a href="./goods_add.html" class="btn btn-success btn-sm pull-right">添加商品</a>
+                    <a href="./goods_add.php" class="btn btn-success btn-sm pull-right">添加商品</a>
                 </div>
                 <div class="goods">               
                 </div>
